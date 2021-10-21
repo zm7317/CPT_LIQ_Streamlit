@@ -6,5 +6,6 @@ seaborn==0.11.1
 pycaret==2.3.0
 pycaret-nightly==2.3.4.dev1633135504
 streamlit==1.0.0
+catboost==0.26
 
 
